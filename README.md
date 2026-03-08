@@ -6,6 +6,15 @@ I build modern web applications using React and TypeScript.
 
 ## Projects
 
+## Java Miniwebshop
+Mini Webshop App
+
+A small Java desktop application that simulates a basic webshop system. 
+The application allows users to browse products, add items to a shopping cart, and manage orders through a simple graphical user interface built with Java Swing.
+
+The project follows an object-oriented structure and separates the application into model, service, and GUI layers to keep the code organized and maintainable. 
+It was built to practice Java fundamentals, application structure, and basic e-commerce logic.
+
 ### Kanban Task Manager
 Task management app with drag & drop functionality.
 
