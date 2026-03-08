@@ -32,6 +32,7 @@ Tech: React, TypeScript, Recharts
 
 ## Tech Stack
 
+Java
 React  
 TypeScript  
 JavaScript  
