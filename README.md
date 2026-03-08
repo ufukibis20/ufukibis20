@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Ufuk 👋
 
-<!--
-**ufukibis20/ufukibis20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Informatics graduate focused on frontend development.
 
-Here are some ideas to get you started:
+I build modern web applications using React and TypeScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### Kanban Task Manager
+Task management app with drag & drop functionality.
+
+Tech: React, TypeScript, Local Storage
+
+### Movie Explorer
+Movie search application using the TMDB API.
+
+Tech: React, TypeScript, API integration
+
+### Finance Dashboard
+Finance dashboard with charts, KPI cards and filtering.
+
+Tech: React, TypeScript, Recharts
+
+## Tech Stack
+
+React  
+TypeScript  
+JavaScript  
+HTML  
+CSS  
+Git  
+
+## Currently
+
+Building portfolio projects and looking for a Junior Frontend Developer role.
