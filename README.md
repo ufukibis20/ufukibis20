@@ -42,4 +42,4 @@ Git
 
 ## Currently
 
-Building portfolio projects and looking for a Junior Frontend Developer role.
+Building portfolio projects and looking for a Junior Developer role.
