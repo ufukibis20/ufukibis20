@@ -1,8 +1,8 @@
 # Hi, I'm Ufuk 👋
 
-Business Informatics graduate focused on frontend development.
+Business Informatics graduate with a focus on frontend development and Java-based applications.
 
-I build modern web applications using React and TypeScript.
+I enjoy building modern web interfaces with React and TypeScript as well as structured backend and desktop applications using Java.
 
 ## Projects
 
@@ -32,7 +32,7 @@ Tech: React, TypeScript, Recharts
 
 ## Tech Stack
 
-Java
+Java  
 React  
 TypeScript  
 JavaScript  
@@ -42,4 +42,4 @@ Git
 
 ## Currently
 
-Building portfolio projects and looking for a Junior Developer role.
+Building portfolio projects with Java and React and looking for a Junior Developer role.
