@@ -6,7 +6,7 @@ I build modern web applications using React and TypeScript.
 
 ## Projects
 
-## Java Miniwebshop
+### Java Miniwebshop
 Mini Webshop App
 
 A small Java desktop application that simulates a basic webshop system. 
